@@ -17,7 +17,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const surplusInput = document.getElementById("surplus-input");
     const totalAmountDisplay = document.getElementById("total-amount");
     const submitButton = document.querySelector(".submit-button");
-
     const categoryList = document.querySelector(".category-list");
 
     // 카테고리 HTML 동적 생성
